@@ -1,5 +1,5 @@
 
-![Stego_Image](https://github.com/user-attachments/assets/0f2df129-8f7b-46bf-a9d4-314d3676da08)
+![Stego_Image](https://github.com/user-attachments/assets/0bf9b884-376f-41d9-a060-f28b23eebd1a)
 
 <!DOCTYPE html>
 <html lang="en">
@@ -43,13 +43,6 @@
 <li>Implement bilinear and nearest neighbor interpolation methods for image resizing.</li>
 <li>Develop a custom image resizing function with optimized PSNR.</li>
 <li>Create a steganography function to embed and extract images.</li>
-</ul>
-
-<h2>Author</h2>
-<p>Ahmad Mardani</p>
-<ul>
-<li><strong>Email</strong>: your-email@example.com</li>
-<li><strong>GitHub</strong>: <a href="https://github.com/yourusername">yourusername</a></li>
 </ul>
 
 <h2>Acknowledgments</h2>
