@@ -31,7 +31,7 @@
 </li>
 <li><strong>Steganography</strong>:
 <ul>
-<li>Implemented a steganography function to hide one image within another while maintaining the quality and integrity of both images.</li>
+<li>Implemented a steganography function to hide one image within another while maintaining the quality and integrity of both images. a same size RGB photo is hidden in the header photo you can see both photo in Q5 folder =)</li>
 </ul>
 </li>
 </ol>
